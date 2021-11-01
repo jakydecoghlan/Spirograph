@@ -1,6 +1,6 @@
 from turtle import *
 import random
-import colorgram
+
 
 
 
